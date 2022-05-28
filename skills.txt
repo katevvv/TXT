@@ -1,0 +1,4 @@
+basic theory - documentation, types and methods of theory,
+web testing - Git, HTTP methods, API, Dev Tools,
+mobile testing - iOS, Android,
+SQL - create, delete, select, join.
